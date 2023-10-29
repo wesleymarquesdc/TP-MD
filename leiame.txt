@@ -1,0 +1,13 @@
+PASTAS
+
+O projeto está estruturado nas pastas bin, src e no arquivo Makefile, que contém as instruções para compilar e executar os programas.
+A pasta bin irá conter os executáveis, já a pasta src contém os arquivos fontes espquadrada.c e esptriangular.c.
+
+COMPILAÇÃO
+
+Para compilar os programas, digite no terminal na pasta raiz o comando "make". Os executáveis serão criados na pasta bin.
+Para executar o programa da espiral quadrada, digite o comando "make run_espquadrada".
+Para executar o programa da espiral triangular, digite o comando "make run_esptriangular".
+
+LIMPEZA
+Para limpar a pasta bin, digite o comando "make clean"
