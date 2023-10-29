@@ -1,7 +1,7 @@
 PASTAS
 
 O projeto está estruturado nas pastas bin, src e no arquivo Makefile, que contém as instruções para compilar e executar os programas.
-A pasta bin irá conter os executáveis, já a pasta src contém os arquivos fontes espquadrada.c e esptriangular.c.
+A pasta bin irá conter os executáveis, já a pasta src contém os arquivos fonte espquadrada.c e esptriangular.c.
 
 COMPILAÇÃO
 
